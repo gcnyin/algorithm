@@ -10,7 +10,7 @@ package com.github.gcnyin.algo.longestpalindromicsubstring;
  * Input: "cbbd"
  * Output: "bb"
  */
-public class Solution {
+class Solution {
     public String longestPalindrome(String s) {
         if (s.length() == 1 || s.length() == 0) {
             return s;
