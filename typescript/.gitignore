@@ -1,0 +1,10 @@
+# build
+node_modules
+dist
+
+# ide
+.idea
+.vscode
+
+# test
+coverage
