@@ -7,9 +7,9 @@ function numWaterBottles(numBottles: number, numExchange: number): number {
       break;
     }
     result += d;
-    const newPlusExisting = d + r;
-    d = Math.floor(newPlusExisting / numExchange);
-    r = newPlusExisting - d * numExchange;
+    const n = d + r;
+    d = Math.floor(n / numExchange);
+    r = n - d * numExchange;
   }
   return result;
 }
