@@ -1,5 +1,7 @@
 # Leetcode
 
+![TypeScript CI](https://github.com/gcnyin/algorithm/workflows/TypeScript%20CI/badge.svg?branch=master)
+
 | \_   | Title                                          | Difficulty |
 | ---- | ---------------------------------------------- | ---------- |
 | 1    | Two Sum                                        | Easy       |
