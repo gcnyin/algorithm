@@ -6,4 +6,4 @@ workflows:
     jobs:
       - node/test:
           version: 12.16.0
-          path: typescript
+          app-dir: typescript
