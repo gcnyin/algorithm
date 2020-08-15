@@ -1,6 +1,6 @@
 # Leetcode
 
-![TypeScript CI](https://github.com/gcnyin/algorithm/workflows/TypeScript%20CI/badge.svg?branch=master)
+![test](https://github.com/gcnyin/algorithm/workflows/test/badge.svg?branch=master)
 
 | \_   | Title                                          | Difficulty |
 | ---- | ---------------------------------------------- | ---------- |
