@@ -1,6 +1,6 @@
 # Leetcode
 
-![test](https://github.com/gcnyin/algorithm/workflows/test/badge.svg?branch=master)
+![ci](https://github.com/gcnyin/algorithm/workflows/CI/badge.svg?branch=master)
 
 | \_   | Title                                          | Difficulty |
 | ---- | ---------------------------------------------- | ---------- |
